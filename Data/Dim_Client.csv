@@ -1,0 +1,421 @@
+ClientKey,ClientName,Industry,ClientTier,CountryKey,ClientCountry,RegionKey,ClientRegion,RegionCode
+1,Client 0001,Logistics,Tier 2,5,Argentina,2,Latin America,LATAM
+2,Client 0002,Retail,Tier 3,12,Italy,3,"Europe, Middle East & Africa",EMEA
+3,Client 0003,Retail,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+4,Client 0004,Manufacturing,Tier 2,19,Malaysia,4,Asia Pacific,APAC
+5,Client 0005,Logistics,Tier 3,6,Chile,2,Latin America,LATAM
+6,Client 0006,Retail,Tier 3,2,Canada,1,North America,NA
+7,Client 0007,Energy,Tier 1,12,Italy,3,"Europe, Middle East & Africa",EMEA
+8,Client 0008,Public Sector,Tier 3,19,Malaysia,4,Asia Pacific,APAC
+9,Client 0009,Retail,Tier 2,5,Argentina,2,Latin America,LATAM
+10,Client 0010,Energy,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+11,Client 0011,Healthcare,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+12,Client 0012,Energy,Tier 3,27,Nigeria,6,Middle East & Africa,MEA
+13,Client 0013,Energy,Tier 2,17,Singapore,4,Asia Pacific,APAC
+14,Client 0014,Telecom,Tier 2,17,Singapore,4,Asia Pacific,APAC
+15,Client 0015,Banking,Tier 2,10,France,3,"Europe, Middle East & Africa",EMEA
+16,Client 0016,Public Sector,Tier 1,25,Qatar,6,Middle East & Africa,MEA
+17,Client 0017,Healthcare,Tier 1,23,Saudi Arabia,6,Middle East & Africa,MEA
+18,Client 0018,Retail,Tier 1,17,Singapore,4,Asia Pacific,APAC
+19,Client 0019,Banking,Tier 1,15,China,4,Asia Pacific,APAC
+20,Client 0020,Telecom,Tier 1,12,Italy,3,"Europe, Middle East & Africa",EMEA
+21,Client 0021,Energy,Tier 1,16,Japan,4,Asia Pacific,APAC
+22,Client 0022,Banking,Tier 2,24,UAE,6,Middle East & Africa,MEA
+23,Client 0023,Manufacturing,Tier 1,19,Malaysia,4,Asia Pacific,APAC
+24,Client 0024,Retail,Tier 2,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+25,Client 0025,Energy,Tier 3,21,New Zealand,5,Australia & New Zealand,ANZ
+26,Client 0026,Retail,Tier 2,17,Singapore,4,Asia Pacific,APAC
+27,Client 0027,Energy,Tier 2,23,Saudi Arabia,6,Middle East & Africa,MEA
+28,Client 0028,Manufacturing,Tier 1,5,Argentina,2,Latin America,LATAM
+29,Client 0029,Logistics,Tier 1,22,Egypt,6,Middle East & Africa,MEA
+30,Client 0030,Banking,Tier 1,16,Japan,4,Asia Pacific,APAC
+31,Client 0031,Healthcare,Tier 1,6,Chile,2,Latin America,LATAM
+32,Client 0032,Banking,Tier 2,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+33,Client 0033,Logistics,Tier 1,25,Qatar,6,Middle East & Africa,MEA
+34,Client 0034,Public Sector,Tier 1,18,South Korea,4,Asia Pacific,APAC
+35,Client 0035,Retail,Tier 1,25,Qatar,6,Middle East & Africa,MEA
+36,Client 0036,Energy,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+37,Client 0037,Public Sector,Tier 1,15,China,4,Asia Pacific,APAC
+38,Client 0038,Telecom,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+39,Client 0039,Manufacturing,Tier 2,26,South Africa,6,Middle East & Africa,MEA
+40,Client 0040,Retail,Tier 2,9,Germany,3,"Europe, Middle East & Africa",EMEA
+41,Client 0041,Banking,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+42,Client 0042,Logistics,Tier 3,26,South Africa,6,Middle East & Africa,MEA
+43,Client 0043,Logistics,Tier 2,15,China,4,Asia Pacific,APAC
+44,Client 0044,Energy,Tier 1,10,France,3,"Europe, Middle East & Africa",EMEA
+45,Client 0045,Healthcare,Tier 3,16,Japan,4,Asia Pacific,APAC
+46,Client 0046,Healthcare,Tier 3,7,Colombia,2,Latin America,LATAM
+47,Client 0047,Energy,Tier 1,17,Singapore,4,Asia Pacific,APAC
+48,Client 0048,Logistics,Tier 2,23,Saudi Arabia,6,Middle East & Africa,MEA
+49,Client 0049,Logistics,Tier 3,26,South Africa,6,Middle East & Africa,MEA
+50,Client 0050,Public Sector,Tier 3,21,New Zealand,5,Australia & New Zealand,ANZ
+51,Client 0051,Energy,Tier 1,22,Egypt,6,Middle East & Africa,MEA
+52,Client 0052,Banking,Tier 1,26,South Africa,6,Middle East & Africa,MEA
+53,Client 0053,Retail,Tier 2,7,Colombia,2,Latin America,LATAM
+54,Client 0054,Logistics,Tier 2,14,India,4,Asia Pacific,APAC
+55,Client 0055,Telecom,Tier 2,15,China,4,Asia Pacific,APAC
+56,Client 0056,Banking,Tier 2,21,New Zealand,5,Australia & New Zealand,ANZ
+57,Client 0057,Banking,Tier 2,7,Colombia,2,Latin America,LATAM
+58,Client 0058,Energy,Tier 3,9,Germany,3,"Europe, Middle East & Africa",EMEA
+59,Client 0059,Banking,Tier 1,19,Malaysia,4,Asia Pacific,APAC
+60,Client 0060,Retail,Tier 2,16,Japan,4,Asia Pacific,APAC
+61,Client 0061,Telecom,Tier 3,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+62,Client 0062,Energy,Tier 3,18,South Korea,4,Asia Pacific,APAC
+63,Client 0063,Energy,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+64,Client 0064,Retail,Tier 2,23,Saudi Arabia,6,Middle East & Africa,MEA
+65,Client 0065,Energy,Tier 1,18,South Korea,4,Asia Pacific,APAC
+66,Client 0066,Retail,Tier 2,20,Australia,5,Australia & New Zealand,ANZ
+67,Client 0067,Healthcare,Tier 2,7,Colombia,2,Latin America,LATAM
+68,Client 0068,Energy,Tier 1,3,Mexico,1,North America,NA
+69,Client 0069,Energy,Tier 2,18,South Korea,4,Asia Pacific,APAC
+70,Client 0070,Public Sector,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+71,Client 0071,Energy,Tier 1,10,France,3,"Europe, Middle East & Africa",EMEA
+72,Client 0072,Telecom,Tier 2,7,Colombia,2,Latin America,LATAM
+73,Client 0073,Banking,Tier 1,17,Singapore,4,Asia Pacific,APAC
+74,Client 0074,Healthcare,Tier 2,14,India,4,Asia Pacific,APAC
+75,Client 0075,Healthcare,Tier 1,24,UAE,6,Middle East & Africa,MEA
+76,Client 0076,Retail,Tier 3,3,Mexico,1,North America,NA
+77,Client 0077,Logistics,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+78,Client 0078,Manufacturing,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+79,Client 0079,Logistics,Tier 3,2,Canada,1,North America,NA
+80,Client 0080,Energy,Tier 2,3,Mexico,1,North America,NA
+81,Client 0081,Public Sector,Tier 1,5,Argentina,2,Latin America,LATAM
+82,Client 0082,Manufacturing,Tier 2,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+83,Client 0083,Telecom,Tier 2,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+84,Client 0084,Manufacturing,Tier 3,26,South Africa,6,Middle East & Africa,MEA
+85,Client 0085,Retail,Tier 2,23,Saudi Arabia,6,Middle East & Africa,MEA
+86,Client 0086,Energy,Tier 1,23,Saudi Arabia,6,Middle East & Africa,MEA
+87,Client 0087,Healthcare,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+88,Client 0088,Banking,Tier 2,7,Colombia,2,Latin America,LATAM
+89,Client 0089,Energy,Tier 2,15,China,4,Asia Pacific,APAC
+90,Client 0090,Retail,Tier 2,24,UAE,6,Middle East & Africa,MEA
+91,Client 0091,Logistics,Tier 2,17,Singapore,4,Asia Pacific,APAC
+92,Client 0092,Logistics,Tier 3,4,Brazil,2,Latin America,LATAM
+93,Client 0093,Logistics,Tier 2,22,Egypt,6,Middle East & Africa,MEA
+94,Client 0094,Manufacturing,Tier 1,25,Qatar,6,Middle East & Africa,MEA
+95,Client 0095,Banking,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+96,Client 0096,Logistics,Tier 1,18,South Korea,4,Asia Pacific,APAC
+97,Client 0097,Manufacturing,Tier 1,1,United States,1,North America,NA
+98,Client 0098,Logistics,Tier 1,16,Japan,4,Asia Pacific,APAC
+99,Client 0099,Logistics,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+100,Client 0100,Public Sector,Tier 2,10,France,3,"Europe, Middle East & Africa",EMEA
+101,Client 0101,Healthcare,Tier 1,12,Italy,3,"Europe, Middle East & Africa",EMEA
+102,Client 0102,Manufacturing,Tier 3,2,Canada,1,North America,NA
+103,Client 0103,Public Sector,Tier 1,23,Saudi Arabia,6,Middle East & Africa,MEA
+104,Client 0104,Healthcare,Tier 2,3,Mexico,1,North America,NA
+105,Client 0105,Retail,Tier 2,10,France,3,"Europe, Middle East & Africa",EMEA
+106,Client 0106,Telecom,Tier 3,2,Canada,1,North America,NA
+107,Client 0107,Logistics,Tier 1,27,Nigeria,6,Middle East & Africa,MEA
+108,Client 0108,Energy,Tier 2,23,Saudi Arabia,6,Middle East & Africa,MEA
+109,Client 0109,Telecom,Tier 3,13,Spain,3,"Europe, Middle East & Africa",EMEA
+110,Client 0110,Banking,Tier 3,13,Spain,3,"Europe, Middle East & Africa",EMEA
+111,Client 0111,Telecom,Tier 3,18,South Korea,4,Asia Pacific,APAC
+112,Client 0112,Logistics,Tier 2,3,Mexico,1,North America,NA
+113,Client 0113,Retail,Tier 1,27,Nigeria,6,Middle East & Africa,MEA
+114,Client 0114,Manufacturing,Tier 2,7,Colombia,2,Latin America,LATAM
+115,Client 0115,Public Sector,Tier 3,14,India,4,Asia Pacific,APAC
+116,Client 0116,Energy,Tier 2,20,Australia,5,Australia & New Zealand,ANZ
+117,Client 0117,Energy,Tier 2,17,Singapore,4,Asia Pacific,APAC
+118,Client 0118,Energy,Tier 2,21,New Zealand,5,Australia & New Zealand,ANZ
+119,Client 0119,Healthcare,Tier 3,12,Italy,3,"Europe, Middle East & Africa",EMEA
+120,Client 0120,Healthcare,Tier 1,25,Qatar,6,Middle East & Africa,MEA
+121,Client 0121,Public Sector,Tier 2,16,Japan,4,Asia Pacific,APAC
+122,Client 0122,Public Sector,Tier 2,24,UAE,6,Middle East & Africa,MEA
+123,Client 0123,Public Sector,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+124,Client 0124,Logistics,Tier 1,15,China,4,Asia Pacific,APAC
+125,Client 0125,Manufacturing,Tier 1,25,Qatar,6,Middle East & Africa,MEA
+126,Client 0126,Manufacturing,Tier 2,10,France,3,"Europe, Middle East & Africa",EMEA
+127,Client 0127,Public Sector,Tier 2,25,Qatar,6,Middle East & Africa,MEA
+128,Client 0128,Energy,Tier 2,7,Colombia,2,Latin America,LATAM
+129,Client 0129,Energy,Tier 1,20,Australia,5,Australia & New Zealand,ANZ
+130,Client 0130,Public Sector,Tier 2,5,Argentina,2,Latin America,LATAM
+131,Client 0131,Logistics,Tier 2,1,United States,1,North America,NA
+132,Client 0132,Healthcare,Tier 1,17,Singapore,4,Asia Pacific,APAC
+133,Client 0133,Manufacturing,Tier 2,3,Mexico,1,North America,NA
+134,Client 0134,Banking,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+135,Client 0135,Telecom,Tier 1,14,India,4,Asia Pacific,APAC
+136,Client 0136,Banking,Tier 3,24,UAE,6,Middle East & Africa,MEA
+137,Client 0137,Manufacturing,Tier 2,18,South Korea,4,Asia Pacific,APAC
+138,Client 0138,Telecom,Tier 3,4,Brazil,2,Latin America,LATAM
+139,Client 0139,Healthcare,Tier 2,18,South Korea,4,Asia Pacific,APAC
+140,Client 0140,Telecom,Tier 2,5,Argentina,2,Latin America,LATAM
+141,Client 0141,Banking,Tier 3,25,Qatar,6,Middle East & Africa,MEA
+142,Client 0142,Banking,Tier 2,16,Japan,4,Asia Pacific,APAC
+143,Client 0143,Public Sector,Tier 2,1,United States,1,North America,NA
+144,Client 0144,Healthcare,Tier 2,21,New Zealand,5,Australia & New Zealand,ANZ
+145,Client 0145,Banking,Tier 2,14,India,4,Asia Pacific,APAC
+146,Client 0146,Manufacturing,Tier 3,15,China,4,Asia Pacific,APAC
+147,Client 0147,Public Sector,Tier 3,9,Germany,3,"Europe, Middle East & Africa",EMEA
+148,Client 0148,Retail,Tier 3,15,China,4,Asia Pacific,APAC
+149,Client 0149,Telecom,Tier 1,17,Singapore,4,Asia Pacific,APAC
+150,Client 0150,Banking,Tier 3,25,Qatar,6,Middle East & Africa,MEA
+151,Client 0151,Banking,Tier 3,24,UAE,6,Middle East & Africa,MEA
+152,Client 0152,Telecom,Tier 1,4,Brazil,2,Latin America,LATAM
+153,Client 0153,Telecom,Tier 1,12,Italy,3,"Europe, Middle East & Africa",EMEA
+154,Client 0154,Energy,Tier 3,27,Nigeria,6,Middle East & Africa,MEA
+155,Client 0155,Energy,Tier 2,26,South Africa,6,Middle East & Africa,MEA
+156,Client 0156,Logistics,Tier 3,5,Argentina,2,Latin America,LATAM
+157,Client 0157,Manufacturing,Tier 1,5,Argentina,2,Latin America,LATAM
+158,Client 0158,Healthcare,Tier 3,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+159,Client 0159,Public Sector,Tier 1,6,Chile,2,Latin America,LATAM
+160,Client 0160,Healthcare,Tier 1,7,Colombia,2,Latin America,LATAM
+161,Client 0161,Manufacturing,Tier 1,24,UAE,6,Middle East & Africa,MEA
+162,Client 0162,Banking,Tier 3,14,India,4,Asia Pacific,APAC
+163,Client 0163,Banking,Tier 2,24,UAE,6,Middle East & Africa,MEA
+164,Client 0164,Logistics,Tier 2,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+165,Client 0165,Public Sector,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+166,Client 0166,Energy,Tier 3,2,Canada,1,North America,NA
+167,Client 0167,Manufacturing,Tier 2,25,Qatar,6,Middle East & Africa,MEA
+168,Client 0168,Retail,Tier 3,7,Colombia,2,Latin America,LATAM
+169,Client 0169,Retail,Tier 2,20,Australia,5,Australia & New Zealand,ANZ
+170,Client 0170,Retail,Tier 2,4,Brazil,2,Latin America,LATAM
+171,Client 0171,Telecom,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+172,Client 0172,Energy,Tier 2,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+173,Client 0173,Energy,Tier 3,20,Australia,5,Australia & New Zealand,ANZ
+174,Client 0174,Healthcare,Tier 2,22,Egypt,6,Middle East & Africa,MEA
+175,Client 0175,Logistics,Tier 1,21,New Zealand,5,Australia & New Zealand,ANZ
+176,Client 0176,Energy,Tier 3,19,Malaysia,4,Asia Pacific,APAC
+177,Client 0177,Telecom,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+178,Client 0178,Telecom,Tier 2,14,India,4,Asia Pacific,APAC
+179,Client 0179,Manufacturing,Tier 3,10,France,3,"Europe, Middle East & Africa",EMEA
+180,Client 0180,Retail,Tier 2,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+181,Client 0181,Healthcare,Tier 1,2,Canada,1,North America,NA
+182,Client 0182,Public Sector,Tier 3,25,Qatar,6,Middle East & Africa,MEA
+183,Client 0183,Banking,Tier 2,26,South Africa,6,Middle East & Africa,MEA
+184,Client 0184,Banking,Tier 2,9,Germany,3,"Europe, Middle East & Africa",EMEA
+185,Client 0185,Banking,Tier 1,17,Singapore,4,Asia Pacific,APAC
+186,Client 0186,Banking,Tier 3,26,South Africa,6,Middle East & Africa,MEA
+187,Client 0187,Public Sector,Tier 2,3,Mexico,1,North America,NA
+188,Client 0188,Energy,Tier 2,24,UAE,6,Middle East & Africa,MEA
+189,Client 0189,Manufacturing,Tier 3,6,Chile,2,Latin America,LATAM
+190,Client 0190,Banking,Tier 3,5,Argentina,2,Latin America,LATAM
+191,Client 0191,Manufacturing,Tier 1,5,Argentina,2,Latin America,LATAM
+192,Client 0192,Manufacturing,Tier 2,22,Egypt,6,Middle East & Africa,MEA
+193,Client 0193,Retail,Tier 1,15,China,4,Asia Pacific,APAC
+194,Client 0194,Manufacturing,Tier 3,23,Saudi Arabia,6,Middle East & Africa,MEA
+195,Client 0195,Manufacturing,Tier 1,17,Singapore,4,Asia Pacific,APAC
+196,Client 0196,Telecom,Tier 2,9,Germany,3,"Europe, Middle East & Africa",EMEA
+197,Client 0197,Energy,Tier 3,3,Mexico,1,North America,NA
+198,Client 0198,Banking,Tier 3,20,Australia,5,Australia & New Zealand,ANZ
+199,Client 0199,Manufacturing,Tier 2,26,South Africa,6,Middle East & Africa,MEA
+200,Client 0200,Telecom,Tier 3,17,Singapore,4,Asia Pacific,APAC
+201,Client 0201,Manufacturing,Tier 1,27,Nigeria,6,Middle East & Africa,MEA
+202,Client 0202,Public Sector,Tier 3,10,France,3,"Europe, Middle East & Africa",EMEA
+203,Client 0203,Energy,Tier 1,3,Mexico,1,North America,NA
+204,Client 0204,Retail,Tier 2,18,South Korea,4,Asia Pacific,APAC
+205,Client 0205,Banking,Tier 3,18,South Korea,4,Asia Pacific,APAC
+206,Client 0206,Energy,Tier 1,17,Singapore,4,Asia Pacific,APAC
+207,Client 0207,Banking,Tier 1,24,UAE,6,Middle East & Africa,MEA
+208,Client 0208,Telecom,Tier 3,3,Mexico,1,North America,NA
+209,Client 0209,Logistics,Tier 3,3,Mexico,1,North America,NA
+210,Client 0210,Telecom,Tier 2,6,Chile,2,Latin America,LATAM
+211,Client 0211,Manufacturing,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+212,Client 0212,Energy,Tier 2,24,UAE,6,Middle East & Africa,MEA
+213,Client 0213,Manufacturing,Tier 2,15,China,4,Asia Pacific,APAC
+214,Client 0214,Telecom,Tier 2,25,Qatar,6,Middle East & Africa,MEA
+215,Client 0215,Logistics,Tier 1,9,Germany,3,"Europe, Middle East & Africa",EMEA
+216,Client 0216,Manufacturing,Tier 3,4,Brazil,2,Latin America,LATAM
+217,Client 0217,Logistics,Tier 2,14,India,4,Asia Pacific,APAC
+218,Client 0218,Logistics,Tier 2,5,Argentina,2,Latin America,LATAM
+219,Client 0219,Retail,Tier 2,2,Canada,1,North America,NA
+220,Client 0220,Banking,Tier 3,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+221,Client 0221,Banking,Tier 1,9,Germany,3,"Europe, Middle East & Africa",EMEA
+222,Client 0222,Banking,Tier 2,24,UAE,6,Middle East & Africa,MEA
+223,Client 0223,Banking,Tier 2,3,Mexico,1,North America,NA
+224,Client 0224,Energy,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+225,Client 0225,Banking,Tier 1,9,Germany,3,"Europe, Middle East & Africa",EMEA
+226,Client 0226,Healthcare,Tier 3,3,Mexico,1,North America,NA
+227,Client 0227,Public Sector,Tier 3,25,Qatar,6,Middle East & Africa,MEA
+228,Client 0228,Banking,Tier 2,2,Canada,1,North America,NA
+229,Client 0229,Public Sector,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+230,Client 0230,Healthcare,Tier 3,10,France,3,"Europe, Middle East & Africa",EMEA
+231,Client 0231,Banking,Tier 3,9,Germany,3,"Europe, Middle East & Africa",EMEA
+232,Client 0232,Energy,Tier 1,15,China,4,Asia Pacific,APAC
+233,Client 0233,Telecom,Tier 2,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+234,Client 0234,Public Sector,Tier 2,25,Qatar,6,Middle East & Africa,MEA
+235,Client 0235,Energy,Tier 2,5,Argentina,2,Latin America,LATAM
+236,Client 0236,Public Sector,Tier 3,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+237,Client 0237,Healthcare,Tier 3,27,Nigeria,6,Middle East & Africa,MEA
+238,Client 0238,Retail,Tier 3,2,Canada,1,North America,NA
+239,Client 0239,Public Sector,Tier 2,24,UAE,6,Middle East & Africa,MEA
+240,Client 0240,Public Sector,Tier 1,15,China,4,Asia Pacific,APAC
+241,Client 0241,Logistics,Tier 3,6,Chile,2,Latin America,LATAM
+242,Client 0242,Manufacturing,Tier 3,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+243,Client 0243,Manufacturing,Tier 1,27,Nigeria,6,Middle East & Africa,MEA
+244,Client 0244,Public Sector,Tier 3,5,Argentina,2,Latin America,LATAM
+245,Client 0245,Healthcare,Tier 3,16,Japan,4,Asia Pacific,APAC
+246,Client 0246,Logistics,Tier 2,26,South Africa,6,Middle East & Africa,MEA
+247,Client 0247,Public Sector,Tier 2,18,South Korea,4,Asia Pacific,APAC
+248,Client 0248,Manufacturing,Tier 2,6,Chile,2,Latin America,LATAM
+249,Client 0249,Public Sector,Tier 1,5,Argentina,2,Latin America,LATAM
+250,Client 0250,Public Sector,Tier 2,16,Japan,4,Asia Pacific,APAC
+251,Client 0251,Banking,Tier 3,13,Spain,3,"Europe, Middle East & Africa",EMEA
+252,Client 0252,Logistics,Tier 1,5,Argentina,2,Latin America,LATAM
+253,Client 0253,Manufacturing,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+254,Client 0254,Public Sector,Tier 2,17,Singapore,4,Asia Pacific,APAC
+255,Client 0255,Healthcare,Tier 2,18,South Korea,4,Asia Pacific,APAC
+256,Client 0256,Logistics,Tier 3,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+257,Client 0257,Manufacturing,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+258,Client 0258,Banking,Tier 2,19,Malaysia,4,Asia Pacific,APAC
+259,Client 0259,Logistics,Tier 3,26,South Africa,6,Middle East & Africa,MEA
+260,Client 0260,Banking,Tier 2,3,Mexico,1,North America,NA
+261,Client 0261,Healthcare,Tier 1,24,UAE,6,Middle East & Africa,MEA
+262,Client 0262,Logistics,Tier 2,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+263,Client 0263,Logistics,Tier 1,2,Canada,1,North America,NA
+264,Client 0264,Telecom,Tier 1,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+265,Client 0265,Energy,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+266,Client 0266,Manufacturing,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+267,Client 0267,Healthcare,Tier 3,13,Spain,3,"Europe, Middle East & Africa",EMEA
+268,Client 0268,Healthcare,Tier 2,1,United States,1,North America,NA
+269,Client 0269,Energy,Tier 2,6,Chile,2,Latin America,LATAM
+270,Client 0270,Public Sector,Tier 2,24,UAE,6,Middle East & Africa,MEA
+271,Client 0271,Public Sector,Tier 1,19,Malaysia,4,Asia Pacific,APAC
+272,Client 0272,Public Sector,Tier 2,16,Japan,4,Asia Pacific,APAC
+273,Client 0273,Banking,Tier 1,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+274,Client 0274,Manufacturing,Tier 3,1,United States,1,North America,NA
+275,Client 0275,Banking,Tier 1,27,Nigeria,6,Middle East & Africa,MEA
+276,Client 0276,Telecom,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+277,Client 0277,Manufacturing,Tier 1,16,Japan,4,Asia Pacific,APAC
+278,Client 0278,Logistics,Tier 3,9,Germany,3,"Europe, Middle East & Africa",EMEA
+279,Client 0279,Healthcare,Tier 2,13,Spain,3,"Europe, Middle East & Africa",EMEA
+280,Client 0280,Banking,Tier 2,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+281,Client 0281,Retail,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+282,Client 0282,Public Sector,Tier 3,25,Qatar,6,Middle East & Africa,MEA
+283,Client 0283,Telecom,Tier 1,21,New Zealand,5,Australia & New Zealand,ANZ
+284,Client 0284,Banking,Tier 3,10,France,3,"Europe, Middle East & Africa",EMEA
+285,Client 0285,Banking,Tier 1,4,Brazil,2,Latin America,LATAM
+286,Client 0286,Energy,Tier 1,27,Nigeria,6,Middle East & Africa,MEA
+287,Client 0287,Banking,Tier 1,6,Chile,2,Latin America,LATAM
+288,Client 0288,Public Sector,Tier 2,7,Colombia,2,Latin America,LATAM
+289,Client 0289,Energy,Tier 2,5,Argentina,2,Latin America,LATAM
+290,Client 0290,Banking,Tier 1,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+291,Client 0291,Banking,Tier 3,13,Spain,3,"Europe, Middle East & Africa",EMEA
+292,Client 0292,Logistics,Tier 2,26,South Africa,6,Middle East & Africa,MEA
+293,Client 0293,Manufacturing,Tier 2,25,Qatar,6,Middle East & Africa,MEA
+294,Client 0294,Manufacturing,Tier 2,19,Malaysia,4,Asia Pacific,APAC
+295,Client 0295,Public Sector,Tier 2,23,Saudi Arabia,6,Middle East & Africa,MEA
+296,Client 0296,Logistics,Tier 2,10,France,3,"Europe, Middle East & Africa",EMEA
+297,Client 0297,Logistics,Tier 1,10,France,3,"Europe, Middle East & Africa",EMEA
+298,Client 0298,Public Sector,Tier 1,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+299,Client 0299,Manufacturing,Tier 3,21,New Zealand,5,Australia & New Zealand,ANZ
+300,Client 0300,Banking,Tier 3,7,Colombia,2,Latin America,LATAM
+301,Client 0301,Public Sector,Tier 2,18,South Korea,4,Asia Pacific,APAC
+302,Client 0302,Telecom,Tier 2,4,Brazil,2,Latin America,LATAM
+303,Client 0303,Manufacturing,Tier 2,2,Canada,1,North America,NA
+304,Client 0304,Logistics,Tier 2,14,India,4,Asia Pacific,APAC
+305,Client 0305,Banking,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+306,Client 0306,Manufacturing,Tier 1,12,Italy,3,"Europe, Middle East & Africa",EMEA
+307,Client 0307,Banking,Tier 3,7,Colombia,2,Latin America,LATAM
+308,Client 0308,Manufacturing,Tier 2,2,Canada,1,North America,NA
+309,Client 0309,Banking,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+310,Client 0310,Banking,Tier 1,14,India,4,Asia Pacific,APAC
+311,Client 0311,Banking,Tier 1,27,Nigeria,6,Middle East & Africa,MEA
+312,Client 0312,Energy,Tier 2,17,Singapore,4,Asia Pacific,APAC
+313,Client 0313,Energy,Tier 1,9,Germany,3,"Europe, Middle East & Africa",EMEA
+314,Client 0314,Telecom,Tier 1,17,Singapore,4,Asia Pacific,APAC
+315,Client 0315,Logistics,Tier 3,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+316,Client 0316,Manufacturing,Tier 1,2,Canada,1,North America,NA
+317,Client 0317,Healthcare,Tier 2,24,UAE,6,Middle East & Africa,MEA
+318,Client 0318,Public Sector,Tier 1,13,Spain,3,"Europe, Middle East & Africa",EMEA
+319,Client 0319,Retail,Tier 1,3,Mexico,1,North America,NA
+320,Client 0320,Logistics,Tier 1,16,Japan,4,Asia Pacific,APAC
+321,Client 0321,Banking,Tier 3,6,Chile,2,Latin America,LATAM
+322,Client 0322,Logistics,Tier 3,19,Malaysia,4,Asia Pacific,APAC
+323,Client 0323,Banking,Tier 3,7,Colombia,2,Latin America,LATAM
+324,Client 0324,Logistics,Tier 2,10,France,3,"Europe, Middle East & Africa",EMEA
+325,Client 0325,Manufacturing,Tier 2,9,Germany,3,"Europe, Middle East & Africa",EMEA
+326,Client 0326,Logistics,Tier 1,2,Canada,1,North America,NA
+327,Client 0327,Banking,Tier 2,15,China,4,Asia Pacific,APAC
+328,Client 0328,Telecom,Tier 3,5,Argentina,2,Latin America,LATAM
+329,Client 0329,Logistics,Tier 1,22,Egypt,6,Middle East & Africa,MEA
+330,Client 0330,Manufacturing,Tier 1,4,Brazil,2,Latin America,LATAM
+331,Client 0331,Telecom,Tier 1,20,Australia,5,Australia & New Zealand,ANZ
+332,Client 0332,Energy,Tier 1,4,Brazil,2,Latin America,LATAM
+333,Client 0333,Manufacturing,Tier 1,18,South Korea,4,Asia Pacific,APAC
+334,Client 0334,Telecom,Tier 2,4,Brazil,2,Latin America,LATAM
+335,Client 0335,Telecom,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+336,Client 0336,Logistics,Tier 3,17,Singapore,4,Asia Pacific,APAC
+337,Client 0337,Banking,Tier 3,12,Italy,3,"Europe, Middle East & Africa",EMEA
+338,Client 0338,Healthcare,Tier 2,22,Egypt,6,Middle East & Africa,MEA
+339,Client 0339,Logistics,Tier 2,17,Singapore,4,Asia Pacific,APAC
+340,Client 0340,Logistics,Tier 2,10,France,3,"Europe, Middle East & Africa",EMEA
+341,Client 0341,Manufacturing,Tier 2,22,Egypt,6,Middle East & Africa,MEA
+342,Client 0342,Telecom,Tier 2,1,United States,1,North America,NA
+343,Client 0343,Healthcare,Tier 2,22,Egypt,6,Middle East & Africa,MEA
+344,Client 0344,Retail,Tier 2,26,South Africa,6,Middle East & Africa,MEA
+345,Client 0345,Manufacturing,Tier 2,24,UAE,6,Middle East & Africa,MEA
+346,Client 0346,Healthcare,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+347,Client 0347,Telecom,Tier 2,18,South Korea,4,Asia Pacific,APAC
+348,Client 0348,Banking,Tier 3,18,South Korea,4,Asia Pacific,APAC
+349,Client 0349,Logistics,Tier 3,14,India,4,Asia Pacific,APAC
+350,Client 0350,Logistics,Tier 1,15,China,4,Asia Pacific,APAC
+351,Client 0351,Energy,Tier 3,12,Italy,3,"Europe, Middle East & Africa",EMEA
+352,Client 0352,Telecom,Tier 2,4,Brazil,2,Latin America,LATAM
+353,Client 0353,Healthcare,Tier 3,27,Nigeria,6,Middle East & Africa,MEA
+354,Client 0354,Public Sector,Tier 3,3,Mexico,1,North America,NA
+355,Client 0355,Energy,Tier 2,20,Australia,5,Australia & New Zealand,ANZ
+356,Client 0356,Retail,Tier 1,12,Italy,3,"Europe, Middle East & Africa",EMEA
+357,Client 0357,Logistics,Tier 2,7,Colombia,2,Latin America,LATAM
+358,Client 0358,Public Sector,Tier 2,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+359,Client 0359,Logistics,Tier 2,1,United States,1,North America,NA
+360,Client 0360,Energy,Tier 2,6,Chile,2,Latin America,LATAM
+361,Client 0361,Telecom,Tier 1,15,China,4,Asia Pacific,APAC
+362,Client 0362,Manufacturing,Tier 3,15,China,4,Asia Pacific,APAC
+363,Client 0363,Logistics,Tier 3,19,Malaysia,4,Asia Pacific,APAC
+364,Client 0364,Public Sector,Tier 2,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+365,Client 0365,Banking,Tier 1,26,South Africa,6,Middle East & Africa,MEA
+366,Client 0366,Banking,Tier 2,23,Saudi Arabia,6,Middle East & Africa,MEA
+367,Client 0367,Manufacturing,Tier 1,26,South Africa,6,Middle East & Africa,MEA
+368,Client 0368,Public Sector,Tier 3,2,Canada,1,North America,NA
+369,Client 0369,Logistics,Tier 1,14,India,4,Asia Pacific,APAC
+370,Client 0370,Retail,Tier 2,2,Canada,1,North America,NA
+371,Client 0371,Telecom,Tier 2,4,Brazil,2,Latin America,LATAM
+372,Client 0372,Manufacturing,Tier 2,17,Singapore,4,Asia Pacific,APAC
+373,Client 0373,Logistics,Tier 2,3,Mexico,1,North America,NA
+374,Client 0374,Public Sector,Tier 3,13,Spain,3,"Europe, Middle East & Africa",EMEA
+375,Client 0375,Public Sector,Tier 1,9,Germany,3,"Europe, Middle East & Africa",EMEA
+376,Client 0376,Manufacturing,Tier 1,7,Colombia,2,Latin America,LATAM
+377,Client 0377,Manufacturing,Tier 1,15,China,4,Asia Pacific,APAC
+378,Client 0378,Healthcare,Tier 3,23,Saudi Arabia,6,Middle East & Africa,MEA
+379,Client 0379,Banking,Tier 3,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+380,Client 0380,Public Sector,Tier 2,20,Australia,5,Australia & New Zealand,ANZ
+381,Client 0381,Public Sector,Tier 2,2,Canada,1,North America,NA
+382,Client 0382,Logistics,Tier 2,15,China,4,Asia Pacific,APAC
+383,Client 0383,Logistics,Tier 1,14,India,4,Asia Pacific,APAC
+384,Client 0384,Telecom,Tier 3,20,Australia,5,Australia & New Zealand,ANZ
+385,Client 0385,Public Sector,Tier 2,22,Egypt,6,Middle East & Africa,MEA
+386,Client 0386,Logistics,Tier 2,11,Netherlands,3,"Europe, Middle East & Africa",EMEA
+387,Client 0387,Public Sector,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+388,Client 0388,Retail,Tier 1,3,Mexico,1,North America,NA
+389,Client 0389,Manufacturing,Tier 1,17,Singapore,4,Asia Pacific,APAC
+390,Client 0390,Banking,Tier 3,12,Italy,3,"Europe, Middle East & Africa",EMEA
+391,Client 0391,Logistics,Tier 1,24,UAE,6,Middle East & Africa,MEA
+392,Client 0392,Telecom,Tier 2,21,New Zealand,5,Australia & New Zealand,ANZ
+393,Client 0393,Retail,Tier 1,15,China,4,Asia Pacific,APAC
+394,Client 0394,Energy,Tier 2,16,Japan,4,Asia Pacific,APAC
+395,Client 0395,Telecom,Tier 2,5,Argentina,2,Latin America,LATAM
+396,Client 0396,Healthcare,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+397,Client 0397,Banking,Tier 3,20,Australia,5,Australia & New Zealand,ANZ
+398,Client 0398,Energy,Tier 2,6,Chile,2,Latin America,LATAM
+399,Client 0399,Manufacturing,Tier 2,19,Malaysia,4,Asia Pacific,APAC
+400,Client 0400,Public Sector,Tier 2,25,Qatar,6,Middle East & Africa,MEA
+401,Client 0401,Manufacturing,Tier 2,5,Argentina,2,Latin America,LATAM
+402,Client 0402,Public Sector,Tier 3,3,Mexico,1,North America,NA
+403,Client 0403,Telecom,Tier 3,27,Nigeria,6,Middle East & Africa,MEA
+404,Client 0404,Telecom,Tier 1,1,United States,1,North America,NA
+405,Client 0405,Public Sector,Tier 1,26,South Africa,6,Middle East & Africa,MEA
+406,Client 0406,Manufacturing,Tier 2,6,Chile,2,Latin America,LATAM
+407,Client 0407,Banking,Tier 2,15,China,4,Asia Pacific,APAC
+408,Client 0408,Banking,Tier 1,2,Canada,1,North America,NA
+409,Client 0409,Public Sector,Tier 2,3,Mexico,1,North America,NA
+410,Client 0410,Telecom,Tier 2,17,Singapore,4,Asia Pacific,APAC
+411,Client 0411,Energy,Tier 2,25,Qatar,6,Middle East & Africa,MEA
+412,Client 0412,Retail,Tier 3,24,UAE,6,Middle East & Africa,MEA
+413,Client 0413,Banking,Tier 1,12,Italy,3,"Europe, Middle East & Africa",EMEA
+414,Client 0414,Banking,Tier 1,18,South Korea,4,Asia Pacific,APAC
+415,Client 0415,Healthcare,Tier 3,15,China,4,Asia Pacific,APAC
+416,Client 0416,Telecom,Tier 2,12,Italy,3,"Europe, Middle East & Africa",EMEA
+417,Client 0417,Manufacturing,Tier 2,16,Japan,4,Asia Pacific,APAC
+418,Client 0418,Manufacturing,Tier 2,27,Nigeria,6,Middle East & Africa,MEA
+419,Client 0419,Logistics,Tier 1,8,United Kingdom,3,"Europe, Middle East & Africa",EMEA
+420,Client 0420,Healthcare,Tier 3,14,India,4,Asia Pacific,APAC

@@ -1,0 +1,28 @@
+RegionCode,Country,RegionKey,Region,CountryKey
+NA,United States,1,North America,1
+NA,Canada,1,North America,2
+NA,Mexico,1,North America,3
+LATAM,Brazil,2,Latin America,4
+LATAM,Argentina,2,Latin America,5
+LATAM,Chile,2,Latin America,6
+LATAM,Colombia,2,Latin America,7
+EMEA,United Kingdom,3,"Europe, Middle East & Africa",8
+EMEA,Germany,3,"Europe, Middle East & Africa",9
+EMEA,France,3,"Europe, Middle East & Africa",10
+EMEA,Netherlands,3,"Europe, Middle East & Africa",11
+EMEA,Italy,3,"Europe, Middle East & Africa",12
+EMEA,Spain,3,"Europe, Middle East & Africa",13
+APAC,India,4,Asia Pacific,14
+APAC,China,4,Asia Pacific,15
+APAC,Japan,4,Asia Pacific,16
+APAC,Singapore,4,Asia Pacific,17
+APAC,South Korea,4,Asia Pacific,18
+APAC,Malaysia,4,Asia Pacific,19
+ANZ,Australia,5,Australia & New Zealand,20
+ANZ,New Zealand,5,Australia & New Zealand,21
+MEA,Egypt,6,Middle East & Africa,22
+MEA,Saudi Arabia,6,Middle East & Africa,23
+MEA,UAE,6,Middle East & Africa,24
+MEA,Qatar,6,Middle East & Africa,25
+MEA,South Africa,6,Middle East & Africa,26
+MEA,Nigeria,6,Middle East & Africa,27
